@@ -1,0 +1,6 @@
+- The app "Treelogy" does not use any personal information
+- No internet connection is required for the app
+- Since none of the data of user is being collected or used, there is no need to delete any data
+- App does not request any of the permissions
+
+For any further questions, you can send an email to "dumanemre1993@gmail.com"
